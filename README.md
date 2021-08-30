@@ -11,11 +11,11 @@ $ Git Clone Repository
 $ Ruby v2.5.1
 
 # Running the app
-- using ruby
+- using ruby\
 $ ruby main.rb
 
-- using shell file
-$ sudo chmod 755 start.sh
+- using shell file\
+$ sudo chmod 755 start.sh\
 $ ./start.sh
 
 # Running the Tests
