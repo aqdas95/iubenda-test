@@ -1,28 +1,27 @@
 Terms And Conditions Generator
 
-Features
+# Features
 - No UI or Rails
 - Just Plain Ruby with Object Oriented Design
 - Good quality tests
 - Good names of classes and methods
 
-Installation
+# Installation
 $ Git Clone Repository 
 $ Ruby v2.5.1
 
-Running the app
-# using ruby
-ruby main.rb
+# Running the app
+- using ruby
+$ ruby main.rb
 
-# using shell file
+- using shell file
 $ sudo chmod 755 start.sh
 $ ./start.sh
 
-Test
-# unit tests and functionality test
+# Running the Tests
 $ ruby test.rb
 
-How To Perform Transformation
+# How To Perform Transformation
 1. Run the app
 2. Provide both of the filenames (dataset and template) as the input from the terminal(console)
 3. App will perform the transformation and displays the transformed file on the terminal if there are no errors 
